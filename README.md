@@ -90,7 +90,10 @@ Design and Layout
 1. add new section
 2. add col with 3 cols
 3. add content with block quotes.
-4.
+4. style img, cite and blockquote
+5. add glyph for quotation mark
+6. modify positioning of blockquote
+
 
 
 
