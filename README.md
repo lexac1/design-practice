@@ -38,6 +38,7 @@ Design and Layout
 4. add icon, h3 title, and content to each.
 5. modularize the h1 and h2 css
 6. style the section heading
+7. style the long-copy
 
 
 
