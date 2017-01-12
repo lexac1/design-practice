@@ -297,7 +297,7 @@ header {
 	margin-top: 30px;
 }
 
-.box-2 {
+.steps-box:last-of-type {
 	padding-left: 3%;
 	margin-top: 70px;
 }

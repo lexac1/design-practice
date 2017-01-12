@@ -71,7 +71,15 @@ Design and Layout
 17. clear the floats from previous section
 18. add offwhite background to section-steps
 
+### Section 4: Cities
 
+1. add new section
+2. add new row
+3. nest h2 with heading
+4. add new row with 4 cols
+5. add img icon and text to each col
+6. reuse box class from above.
+7. add feature boxes with images and logos
 
 
 
