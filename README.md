@@ -49,6 +49,40 @@ Design and Layout
 4. add animation effects and transitions to images
 5. rebalance spacing on long-copy
 
+### Section 3: Steps
+
+1. add new section
+2. add heading div row
+3. add new row container
+4. add 2 col divs
+5. add phone img to first col
+6. add 3 divs for steps to second div
+7. add numbers to plain div
+8. add text to p element
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
