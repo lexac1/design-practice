@@ -41,9 +41,10 @@ Design and Layout
 7. style the long-copy
 8. style the icons and feature boxes
 
+### Showcase: Section 2
 
-
-
+1. add new section
+2. add 2x ul's with 4 li > figure > img
 
 
 
