@@ -80,6 +80,10 @@ Design and Layout
 5. add img icon and text to each col
 6. reuse box class from above.
 7. add feature boxes with images and logos
+8. resize images to width 100%
+9. style logos
+10. style links
+11. update above app store links border
 
 
 
