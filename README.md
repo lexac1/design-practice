@@ -39,6 +39,7 @@ Design and Layout
 5. modularize the h1 and h2 css
 6. style the section heading
 7. style the long-copy
+8. style the icons and feature boxes
 
 
 
