@@ -94,8 +94,19 @@ Design and Layout
 5. add glyph for quotation mark
 6. modify positioning of blockquote
 
+### Section 6: Plans
 
-
+1. add new section
+2. add heading row
+3. add new row with 3 cols
+4. add div for plan-box
+5. add plan title
+6. add plan-price with content
+7. add plan-price-meal with content
+8. add ul for features
+9. add icon font as li's
+10. add content to li's
+11. add styes to boxes and content
 
 
 
