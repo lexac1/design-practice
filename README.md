@@ -59,6 +59,19 @@ Design and Layout
 6. add 3 divs for steps to second div
 7. add numbers to plain div
 8. add text to p element
+9. add class img.app-screen, col.steps-box, inner col div.works-step
+10. add margin to .steps-box
+11. add alignment to first col as right
+12. add alignment to last col as left
+13. add responsive padding to last col
+14. resize .app-screen img
+15. format the number divs
+16. set to inline-block to flow next to text elements
+16. add spacing to the preceding text
+17. clear the floats from previous section
+18. add offwhite background to section-steps
+
+
 
 
 
