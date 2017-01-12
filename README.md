@@ -85,6 +85,12 @@ Design and Layout
 10. style links
 11. update above app store links border
 
+### Section 5: Testimonials
+
+1. add new section
+2. add col with 3 cols
+3. add content with block quotes.
+4.
 
 
 
