@@ -138,7 +138,7 @@ Design and Layout
 
 ### Media Queries
 
-1. add sizing for each break point
+1. add sizing for each break points
 
 
 
