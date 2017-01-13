@@ -110,6 +110,16 @@ Design and Layout
 
 ### Section 7: Contact Form
 
+1. add new section
+2. add form elements
+3. add attributes to elements
+4. style inputs and labels
+5. modify the submit button to be included in the button settings
+6. center the form
+7. space and border styles for form elements
+
+### Section 8: Footer
+
 
 
 
