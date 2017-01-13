@@ -1,6 +1,13 @@
 Specs:
 ======
 
+Coding time
+-----------
+
+- full page design, and style: 10 hrs
+- adding responsive media queries:
+- adding extras: 
+
 Color
 -----
 
@@ -129,7 +136,9 @@ Design and Layout
 7. add proper brand colors to social icons hover effects
 8. resize section
 
+### Media Queries
 
+1. add sizing for each break point
 
 
 
