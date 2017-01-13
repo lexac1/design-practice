@@ -120,6 +120,15 @@ Design and Layout
 
 ### Section 8: Footer
 
+1. add footer section
+2. add nav ul
+3. add social ul
+4. add copyright text
+5. style both uls
+6. add hover effects to links
+7. add proper brand colors to social icons hover effects
+8. resize section
+
 
 
 
