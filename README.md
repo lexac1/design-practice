@@ -150,4 +150,5 @@ Design and Layout
 6.	install waypoints for transition effects at locations
 7.	add z-index to navbar when sticky
 8.	add transition offset to nav
-9.
+9.	add scrolling effects to buttons and nav buttons
+10.	add animation effects to scroll
