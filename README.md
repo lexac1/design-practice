@@ -108,8 +108,7 @@ Design and Layout
 10. add content to li's
 11. add styes to boxes and content
 
-
-
+### Section 7: Contact Form
 
 
 
