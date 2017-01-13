@@ -27,7 +27,10 @@ html {
 	text-rendering: optimizeLegibility;
 }
 
-.clearfix {zoom: 1}
+.clearfix {
+	zoom: 1
+}
+
 .clearfix:after {
 	content: ".";
 	clear: both;
@@ -35,6 +38,7 @@ html {
 	height: 0;
 	visibility: hidden;
 }
+
 
 /* --------------------------------------- */
 
@@ -99,6 +103,7 @@ h2:after {
 	margin-top: 30px;
 }
 
+
 /* ---- PARAGRAPHS ---- */
 
 .long-copy {
@@ -111,6 +116,7 @@ h2:after {
 	font-size: 90%;
 	line-height: 145%;
 }
+
 
 /* ---- ICONS ---- */
 
@@ -128,13 +134,12 @@ h2:after {
 	color: #e67e22;
 	font-size: 120%;
 	margin-right: 10px;
-	
 	/*secerets to align text and icons*/
-	
 	line-height: 120%;
 	vertical-align: middle;
 	margin-top: -5px;
 }
+
 
 /* ---- LINKS ---- */
 
@@ -255,6 +260,7 @@ header {
 	border-bottom: 2px solid #e67e22;
 }
 
+
 /* --------------------------------------- */
 
 
@@ -262,7 +268,6 @@ header {
 
 
 /* --------------------------------------- */
-
 
 .section-features .long-copy {
 	margin-bottom: 30px;
@@ -311,6 +316,7 @@ header {
 	opacity: 1;
 	transform: scale(1.03);
 }
+
 
 /* --------------------------------------- */
 
@@ -391,6 +397,7 @@ header {
 	margin-bottom: 5px;
 }
 
+
 /* --------------------------------------- */
 
 
@@ -418,7 +425,6 @@ cite {
 	font-size: 90%;
 	margin-top: 25px;
 	display: block;
-	
 }
 
 blockquote:before {
@@ -427,7 +433,7 @@ blockquote:before {
 	font-size: 500%;
 	position: absolute;
 	top: -5px;
-	left: -5px;	
+	left: -5px;
 }
 
 cite img {
@@ -436,6 +442,69 @@ cite img {
 	margin-right: 10px;
 	vertical-align: middle;
 }
+
+/* --------------------------------------- */
+
+
+/* SIGNUP SECTION */
+
+
+/* --------------------------------------- */
+
+.section-plans {
+	background-color: #f4f4f4;
+}
+
+.plan-box {
+	background-color: #fff;
+	border-radius: 5px;
+	width: 90%;
+	margin-left: 5%;
+	box-shadow: 0 2px 2px #e3e3e3;
+}
+
+.plan-box div {
+	padding: 15px;
+	border-bottom: 1px solid #efefef;
+}
+
+.plan-box div:first-child {
+	background-color: #fcfcfc;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.plan-box div:last-child {
+	text-align: center;
+	border: 0;
+}
+
+.plan-price {
+	font-size: 300%;
+	margin-bottom: 10px;
+	font-weight: 100;
+	color: #e67e22;
+}
+
+.plan-price span {
+	font-size: 30%;
+	font-weight: 300;
+}
+
+.plan-price-meal {
+	font-size: 80%;
+}
+
+.plan-box ul {
+	list-style: none;
+}
+
+.plan-box ul li {
+	padding: 5px 0;
+}
+
+
+
 
 
 
