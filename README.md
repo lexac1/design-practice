@@ -153,3 +153,9 @@ Design and Layout
 9.	add scrolling effects to buttons and nav buttons
 10.	add animation effects to scroll
 11.	add responsive nav bar
+
+### Styling the mobile view
+
+1.  add new styles to nav-bar mobile and sticky
+2.  add new queries to nav-bar mobile and sticky
+3.  
