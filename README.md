@@ -5,8 +5,9 @@ Coding time
 -----------
 
 - full page design, and style: 10 hrs
-- adding responsive media queries:
-- adding extras: 
+- adding responsive media queries: 1 hr
+- adding extras: 2 hr
+- hosting and optimization: 1 hr
 
 Color
 -----
@@ -139,29 +140,3 @@ Design and Layout
 ### Media Queries
 
 1. add sizing for each break points
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
