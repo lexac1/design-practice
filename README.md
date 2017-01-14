@@ -4,9 +4,16 @@ Specs:
 Coding time
 -----------
 
+<<<<<<< HEAD
 -	full page design, and style: 10 hrs
 -	adding responsive media queries:
 -	adding extras:
+=======
+- full page design, and style: 10 hrs
+- adding responsive media queries: 1 hr
+- adding extras: 2 hr
+- hosting and optimization: 1 hr
+>>>>>>> 0b307a1f6cf29048df131526807d794acfab72bc
 
 Color
 -----
@@ -159,3 +166,4 @@ Design and Layout
 1.  add new styles to nav-bar mobile and sticky
 2.  add new queries to nav-bar mobile and sticky
 3.  
+
